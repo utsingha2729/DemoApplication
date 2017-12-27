@@ -11,5 +11,6 @@ namespace DemoApplicationForGITHUB.Models
 		public string EmployeeName { get; set; }
 		public DateTime DateOfBirth { get; set; }
 		public DateTime DateOfJoining { get; set; }
-	}
+        public char Gender { get; set; }
+    }
 }

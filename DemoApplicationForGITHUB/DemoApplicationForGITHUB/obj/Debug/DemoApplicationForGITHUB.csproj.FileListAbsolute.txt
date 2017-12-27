@@ -40,3 +40,45 @@ C:\Users\Learning\source\repos\DemoApplicationForGITHUB\DemoApplicationForGITHUB
 C:\Users\Learning\source\repos\DemoApplicationForGITHUB\DemoApplicationForGITHUB\obj\Debug\DemoApplicationForGITHUB.csproj.CoreCompileInputs.cache
 C:\Users\Learning\source\repos\DemoApplicationForGITHUB\DemoApplicationForGITHUB\obj\Debug\DemoApplicationForGITHUB.dll
 C:\Users\Learning\source\repos\DemoApplicationForGITHUB\DemoApplicationForGITHUB\obj\Debug\DemoApplicationForGITHUB.pdb
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\ApplicationInsights.config
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\DemoApplicationForGITHUB.dll.config
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\DemoApplicationForGITHUB.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\DemoApplicationForGITHUB.pdb
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Antlr3.Runtime.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.AI.Web.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.ApplicationInsights.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Newtonsoft.Json.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.Helpers.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.Mvc.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.Optimization.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.Razor.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.WebPages.Deployment.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.WebPages.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.WebPages.Razor.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\WebGrease.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.Helpers.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.Mvc.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.Optimization.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.Razor.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.WebPages.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.WebPages.Deployment.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\System.Web.WebPages.Razor.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Antlr3.Runtime.pdb
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Newtonsoft.Json.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.ApplicationInsights.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\bin\Microsoft.AI.Web.xml
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\obj\Debug\DemoApplicationForGITHUB.csprojResolveAssemblyReference.cache
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\obj\Debug\DemoApplicationForGITHUB.csproj.CoreCompileInputs.cache
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\obj\Debug\DemoApplicationForGITHUB.dll
+D:\Users\Default User\Documents\GitHub\DemoApplication\DemoApplicationForGITHUB\DemoApplicationForGITHUB\obj\Debug\DemoApplicationForGITHUB.pdb
