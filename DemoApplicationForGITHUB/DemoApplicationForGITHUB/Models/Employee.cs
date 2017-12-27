@@ -13,5 +13,6 @@ namespace DemoApplicationForGITHUB.Models
 		public DateTime DateOfJoining { get; set; }
         public char Gender { get; set; }
         public double PhoneNumber { get; set; }
+        public int MyProperty { get; set; }
     }
 }
